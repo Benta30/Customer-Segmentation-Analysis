@@ -36,5 +36,3 @@ The model successfully grouped customers into different segments based on their 
 - Personalize customer experiences
 - Increase customer retention
 - Optimize business strategies
-
-## Project Structure
